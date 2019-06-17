@@ -1480,10 +1480,10 @@ Have a story, not just data, about something you accomplished.
 - What are you working on?
 - What do you like about it?
 - What is the work life like?
--Where does the company see itself in 6 month’s and 2 year’s time?
--Which areas of the company need to be immediately improved?
--What is the biggest weakness in the  management structure?
--Why did the last person to have the role you are interviewing for, leave?
+- Where does the company see itself in 6 month’s and 2 year’s time?
+- Which areas of the company need to be immediately improved?
+- What is the biggest weakness in the  management structure?
+- Why did the last person to have the role you are interviewing for, leave?
 
 ## Once You've Got The Job
 
